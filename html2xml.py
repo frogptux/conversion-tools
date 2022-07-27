@@ -1,4 +1,4 @@
-#! /bin/bash
+#! /bin/env python3
 # Import the required library
 from bs4 import BeautifulSoup
 import sys
